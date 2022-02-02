@@ -1,2 +1,2 @@
 # Smarttek School Website
-Smarttek School Website Inner-Source Code. 
+Smarttek School Website Inner-Source Code.
